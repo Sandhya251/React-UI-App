@@ -5,9 +5,7 @@ This is a mobile-responsive React UI project built using **Vite**, **React Route
 
 ##  Live Demo
 
- [View on Vercel](https://your-project-name.vercel.app)  
-*(replace with your actual deployment URL)*
-
+ [View on Vercel](https://react-ui-app-lime.vercel.app/)
 ---
 
 ##  Screens
@@ -50,11 +48,11 @@ react-ui-assignment/
 
 ##  Features
 
-- 📱 Mobile-first responsive layout
-- 🔁 React Router navigation
-- 💡 Pixel-perfect design based on Adobe XD
-- ♿ Accessibility-friendly markup
-- ✅ Clean, readable code structure
+-  Mobile-first responsive layout
+-  React Router navigation
+-  Pixel-perfect design based on Adobe XD
+-  Accessibility-friendly markup
+-  Clean, readable code structure
 
 ---
 
