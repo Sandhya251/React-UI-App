@@ -1,12 +1,69 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React UI Assignment
 
-Currently, two official plugins are available:
+This is a mobile-responsive React UI project built using **Vite**, **React Router**, and **plain CSS** based on a pixel-perfect Adobe XD design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Demo
 
-## Expanding the ESLint configuration
+ [View on Vercel](https://your-project-name.vercel.app)  
+*(replace with your actual deployment URL)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Screens
+
+-  Onboarding / Welcome Page
+-  Login Page
+-  Signup Page
+-  Account Settings Page
+
+---
+
+## Tech Stack
+
+-  React (via Vite)
+-  React Router DOM
+-  Plain CSS (No Tailwind)
+-  Vercel (Deployment)
+
+---
+
+## Folder Structure
+
+react-ui-assignment/
+├── public/
+├── src/
+│ ├── assets/ # Images and static assets
+│ ├── components/ # Reusable components like Navbar
+│ ├── pages/ # Welcome, Login, Signup, Account
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── App.css
+│ └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+##  Features
+
+- 📱 Mobile-first responsive layout
+- 🔁 React Router navigation
+- 💡 Pixel-perfect design based on Adobe XD
+- ♿ Accessibility-friendly markup
+- ✅ Clean, readable code structure
+
+---
+
+##  Getting Started
+
+1. Clone the repository
+git clone https://github.com/your-username/react-ui-assignment.git
+cd react-ui-assignment
+2. Install dependencies
+npm install
+3. Run the project locally
+npm run dev
